@@ -1,1 +1,3 @@
 # play-asciidoc
+
+video::rAteGra5-xM[youtube]
